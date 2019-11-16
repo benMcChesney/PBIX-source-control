@@ -1,0 +1,21 @@
+{
+    "files":{
+        "json":[
+            "Connections",
+            "DiagramLayout",
+            "Report\\Layout"
+        ],
+        "binary":[
+            "DataMashup",
+            "Metadata",
+            "SecurityBindings",
+            "Settings"
+        ],
+        "txt":[
+            "Version"
+        ],
+        "xml":[
+            "Report\\LinguisticSchema"
+        ]
+    }
+}
